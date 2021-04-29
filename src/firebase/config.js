@@ -15,4 +15,8 @@ const firebaseConfig = {
 if (!firebase.apps.length) {
     firebase.initializeApp(firebaseConfig);
 } 
+<<<<<<< HEAD
 export { firebase };
+=======
+export { firebase };
+>>>>>>> 12794868f24148db01dc70c82af34857dc2034f6
